@@ -1,3 +1,6 @@
+# This fork
+...adds a CMakeList.txt file, so this project can be imported to any IDE that supports CMake / is supported by CMake.
+
 # perfect6502
 
 *perfect6502* is a MOS 6502 CPU emulator that performs a simulation of the original NMOS 6502 netlist that was extracted by the [visual6502.org](http://www.visual6502.org/) project.
